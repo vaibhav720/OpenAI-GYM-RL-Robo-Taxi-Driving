@@ -9,11 +9,12 @@ Make sure you have the following libraries installed before running the code:
 
 OpenAI Gymnasium 
 NumPy
+Pygame
 Matplotlib
 Jupyter Notebook (for running the notebook file)
 You can install the required libraries using the following command:
 ```
-pip install Gymnasium numpy matplotlib jupyter
+pip install gymnasium pygame numpy matplotlib jupyter
 
 ```
 ## How to run Code 
