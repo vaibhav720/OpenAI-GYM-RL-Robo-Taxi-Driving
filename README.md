@@ -40,7 +40,7 @@ jupyter notebook
 5 Alternatively, run the Python script:
 * Execute the RoboTaxi_RL.py script in a Python environment:
 ```
-python RoboTaxi_RL.py
+VaibhavParikh_Ex1.py
 
 ```
 ## Q Learning Algorithm:-
