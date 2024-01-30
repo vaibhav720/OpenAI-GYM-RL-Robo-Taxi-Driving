@@ -19,8 +19,7 @@ pip install Gymnasium numpy matplotlib jupyter
 ## How to run Code 
 1 Clone the Repository:
 ```
-git clone https://github.com/your-username/robo-taxi-rl.git
-cd robo-taxi-rl
+gh repo clone vaibhav720/OpenAI-GYM-RL-Robo-Taxi-Driving
 
 ```
 2 Launch Jupyter Notebook:
